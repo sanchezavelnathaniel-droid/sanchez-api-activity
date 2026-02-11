@@ -18,3 +18,12 @@ Markdown
 (Paste a screenshot of a successful GET request here)
 
 ![alt text](image.png)
+
+
+## Why did I choose to Embed the Review / Tag / Log?
+
+I chose to include the Review, Tag, and Log because they are small parts that rely on the main document. Since they don't need to stand alone, including them keeps the data structure simple and logically organized within the main document.
+
+## Why did I choose to Reference the Chef / User / Guest?
+
+I created references to Chef, User, and Guest because these three entities maintain separate records which can function independently and serve as reusable elements across different documents. Database normalization remains intact through referencing while both database entities and their associated data remain protected from duplication.
